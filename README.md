@@ -1,2 +1,2 @@
-this is to create conflict in files of github
+this is to create conflict in files of gith
 
