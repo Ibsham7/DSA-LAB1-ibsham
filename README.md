@@ -1,2 +1,2 @@
-this is to create a conflict
+this is to create conflict in files
 
